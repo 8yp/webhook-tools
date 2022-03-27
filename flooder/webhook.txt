@@ -1,0 +1,9 @@
+
+Webhook Type: 1
+Webhook ID: 953718211520651354
+Webhook Name: Spidey Bot
+Webhook Avatar: None
+Channel ID: 947535721655328778
+Guild ID: 947462744142118982
+Webhook Token: 3y3-xx5KVs-FNg-DULqRuJLacv82W4nBvJKRmqOnxZ6DhWd8ykvhbsRttajK2yO6usle
+Webhook: https://discord.com/api/webhooks/953718211520651354/3y3-xx5KVs-FNg-DULqRuJLacv82W4nBvJKRmqOnxZ6DhWd8ykvhbsRttajK2yO6usle
